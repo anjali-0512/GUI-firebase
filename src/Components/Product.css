@@ -1,0 +1,44 @@
+#items {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container {
+  background-color: white;
+  z-index: 100;
+  flex: 1;
+
+  margin: 10px;
+
+  max-height: 400px;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 30%;
+}
+
+.price {
+  margin-top: 0;
+}
+
+.pic {
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  margin-left: 100px;
+}
+
+.action {
+  margin-top: 20px;
+  display: grid;
+  margin-left: 50px;
+}
+
+.addtocart {
+  width: 100px;
+  height: 30px;
+  background-color: #f0c14b;
+  border: 2px solid #a88734;
+  border-radius: 2px;
+  cursor: pointer;
+}

@@ -1,0 +1,65 @@
+.question {
+  background-color: #1fc3c0;
+  height: 250px;
+}
+
+p {
+  color: white;
+  font-size: medium;
+}
+#q1 {
+  margin-left: 400px;
+}
+
+#q2 {
+  margin-left: 395px;
+}
+
+#q3 {
+  margin-left: 200px;
+}
+
+#q4 {
+  margin-left: 395px;
+}
+
+#q5 {
+  margin-left: 250px;
+}
+
+#q6 {
+  margin-left: 300px;
+}
+
+#q7 {
+  margin-left: 300px;
+}
+
+#q8 {
+  margin-left: 280px;
+}
+
+#q9 {
+  margin-left: 305px;
+}
+
+#q10 {
+  margin-left: 210px;
+}
+
+.output {
+  margin-top: 0;
+}
+
+.notes {
+  background-color: #1fc3c0;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.n1,
+.n2,
+.n3 {
+  margin-bottom: 10px;
+}
